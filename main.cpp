@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -24,4 +24,4 @@ int main() {
     cout << "\nDIBUAT OLEH MUHAMMAD HAFIF NAIBAHO\n";
 
     return 0;
-}*/
+}
